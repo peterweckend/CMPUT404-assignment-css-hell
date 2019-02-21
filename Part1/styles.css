@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'vinque'; 
+    src: url('./vinque.ttf');
+}
+
+@font-face {
+    font-family: 'Quintessential-Regular'; 
+    src: url('./Quintessential-Regular.ttf');
+}
+
+body {
+    background-color: #FBF0D9;
+}
+
+h1 {
+    font-family: "vinque";
+    font-size: 300%;
+    color: #f45342;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Quintessential-Regular";
+    color: #8c2e24;
+}
+
+p {
+    font-family: "Courier New";
+}
+
+img {
+    height: 33%;
+    width: 33%; 
+}
+
+.imageCap {
+    text-decoration: underline;
+    font-family: "Courier New";
+    font-style: italic;
+}
