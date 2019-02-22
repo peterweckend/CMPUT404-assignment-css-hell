@@ -3,6 +3,14 @@ Assignment: CSS Hell
 
 You will skin 3 project gutenberg stories with custom CSS.
 
+The html files had to be modified such that they used the styles.css stylesheet.
+The Christmas Carol's html page had images already, but not all images had captions. Captions that were missing were taken 
+from the images' alt tags and manually added as captions. 
+
+Added fonts: Quintessential-Regular, Vinque (both are cleared for use).
+
+---
+
 You will skin 2 versions of a possible professional homepage for your
 self with 2 versions of CSS.
 
